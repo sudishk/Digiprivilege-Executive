@@ -22,7 +22,7 @@ This app offers access to exclusive resort services under a **paid membership mo
 ## 💰 Refund Policy
 - 🚫 Payments made for membership are **non-refundable**, unless otherwise specified under special circumstances.
 - 🧾 In case of any **billing errors**, such as duplicate charges or incorrect amounts, users are encouraged to contact us immediately.
-- 📩 For all payment-related support, reach out at DigiPrivilege Executive@gmail.com. And our team will assist you promptly.
+- 📩 For all payment-related support, reach out at DigiPrivilege@gmail.com. And our team will assist you promptly.
 
 ### Cookies  
 Cookies are files with small amount of data that is commonly used an anonymous unique identifier. These are sent to your browser from the website that you visit and are stored on your devices’s internal memory.  
